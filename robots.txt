@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /scripts/
+
+Allow: /assets/images/
+
+Sitemap: https://www.hariandomuthi.com/sitemap.xml
