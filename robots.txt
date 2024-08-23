@@ -1,7 +1,12 @@
+# robots.txt for https://hariando7.github.io/daily/
+
+# Jangan izinkan semua bot mengakses direktori /assets/ dan /scripts/
 User-agent: *
 Disallow: /assets/
 Disallow: /scripts/
 
+# Izinkan bot mengakses direktori /assets/images/
 Allow: /assets/images/
 
+# Sitemap
 Sitemap: https://hariando7.github.io/daily/sitemap.xml
