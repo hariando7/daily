@@ -4,4 +4,4 @@ Disallow: /scripts/
 
 Allow: /assets/images/
 
-Sitemap: https://www.hariandomuthi.com/sitemap.xml
+Sitemap: https://hariando7.github.io/daily/sitemap.xml
